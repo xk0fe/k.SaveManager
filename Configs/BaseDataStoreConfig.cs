@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Source.k.SaveManager.Configs
+namespace k.SaveManager.Configs
 {
     public abstract class BaseDataStoreConfig : ScriptableObject
     {

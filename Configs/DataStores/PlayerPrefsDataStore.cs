@@ -1,7 +1,6 @@
-﻿using Newtonsoft.Json;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace Source.k.SaveManager.Configs.DataStores
+namespace k.SaveManager.Configs.DataStores
 {
     [CreateAssetMenu(menuName = "k/Misc/Save/DataStore/" + nameof(PlayerPrefsDataStore), fileName = nameof(PlayerPrefsDataStore), order = 0)]
     public class PlayerPrefsDataStore : BaseDataStoreConfig

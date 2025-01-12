@@ -1,6 +1,4 @@
-﻿using Newtonsoft.Json;
-
-namespace Source.k.SaveManager
+﻿namespace k.SaveManager
 {
     [JsonObject]
     public class SaveData

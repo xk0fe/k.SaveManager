@@ -1,8 +1,8 @@
 ﻿using System;
-using Source.k.SaveManager.Configs;
+using k.SaveManager.Configs;
 using UnityEngine;
 
-namespace Source.k.SaveManager
+namespace k.SaveManager
 {
     public static class SaveManager
     {
